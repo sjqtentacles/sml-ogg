@@ -1,0 +1,13 @@
+# Build output
+/bin/
+
+# MLton artifacts
+*.o
+*.exe
+
+# smlpkg downloads dependencies here; ours has none
+/lib/github.com/diku-dk/
+
+# Editor / OS noise
+.DS_Store
+*~
